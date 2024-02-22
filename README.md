@@ -7,10 +7,10 @@ Therefore, I have gained an understanding of data processing tools such as SQL, 
 
 # Education Background
 1. RevoU - Fullstack Data Analytics Program
-Grade: 88.41 - 100
-In a transformative 12 -weeks online program led by industry-leading instructors, I gained essential skills in data analytics.
+- Grade: 88.41 - 100
+- In a transformative 12 -weeks online program led by industry-leading instructors, I gained essential skills in data analytics.
 2. Nurtanio University of Bandung	- Aeronautical Engineering
-GPA: 3.10 - 4.00
+- GPA: 3.10 - 4.00
 
 # Technial Skill
 1. Spreadsheet/Microsoft Excel
@@ -39,6 +39,7 @@ Service provider for the use of Unmanned Aerial Vehicles (UAV) or Drones.
 
 
 # Spreadsheet
+Exercise - Individual
 ### Background
 The CEO of Supermarket said that the growth of supermarkets in the most populous cities increases market competition.
 Of the 3 branches owned, the branch in Yangon city was the lowest at 312.35 while the highest branch was 337.10 in Napiytaw city.
@@ -62,6 +63,8 @@ Increasing employee friendliness to increase ratings in each branch, such as pro
 - [Supermarket Sales Spreadsheet](https://drive.google.com/file/d/1j_vGZQY1_pg9cQ6gls9rv3vERDvwF0bM/view?usp=sharing)
 
 # Python
+Revou's Faculty project - Individual
+
 ### Background
 The United States of America has more than 10 airlines to serve domestic and international flights.
 USA airline flight data in 2015 was analyzed with the aim of evaluating performance and as annual information to airlines, airports and users by providing, the best and worst airlines and busiest airports in 2015 based on averages
@@ -91,6 +94,7 @@ Code:
 
 
 # Data Visualization with Tableau
+Revou's Faculty project - Individual
 1. Connect and combine/ join datasets
 2. Data formatting
 3. Visualization
