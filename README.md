@@ -1,6 +1,6 @@
 # Jerry Data Analytics Portfolio
-Hi! My name is Jerry Dwi Candra Wibowo, you can call me Jerry. Here is my Portfolio as Data Analyst, lesssgo!
-
+Hello! I am Jerry. I am an aspiring professional data analyst who is eager to learn new things, enjoys challenges, and thrives on meticulously planned details. My previous experience as an Inventory Control Officer has accustomed me to creating shipment plans for drone parts. I also created asset reports, input purchasing and expenditure data using Spreadsheet and Accurate software, and coordinated with project managers, teams, and regions. In my career journey, I decided to deepen my knowledge in data analysis to enhance my analytical skills. 
+Therefore, I have gained an understanding of data processing tools such as SQL, Python, Tableau, and Spreadsheet. I also comprehend methods for generating business insights from existing data. With my experiences, I am confident that I can contribute to becoming a competent data analyst in your company.
 
 # Spreadsheet
 1. Data Cleaning
